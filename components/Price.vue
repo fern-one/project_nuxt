@@ -50,7 +50,7 @@ export default {
             return price
         },
         checkout(){
-            alert('Payment done')
+            alert('Success')
             location.reload();
         }
     },

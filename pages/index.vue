@@ -11,7 +11,7 @@
                     <div class="flex items-center" id="store-nav-content">
 
                        <button @click="cart = !cart" class="pl-3  flex font-bold text-gray-800 text-xl" href="#">PAY</button>
-                            <div  class="fixed bottom-6 shadow-xl flex bg-gray-400 rounded-full p-4 "><img class="w-6 h-6" src="https://cdn.iconscout.com/icon/free/png-256/shopping-cart-452-1163339.png" alt=""> {{chooseProducts.length}} </div>
+                            <div  class="fixed bottom-6 shadow-xl flex bg-pink-400 rounded-full p-4 "><img class="w-6 h-6" src="https://cdn.iconscout.com/icon/free/png-256/shopping-cart-452-1163339.png" alt=""> {{chooseProducts.length}} </div>
                      
                     </div>
                 </div>
