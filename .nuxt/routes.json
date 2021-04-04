@@ -3,21 +3,18 @@
     "name": "profile",
     "path": "/profile",
     "component": "C:\\\\Users\\\\Lenovo\\\\Desktop\\\\Project_nuxt-js\\\\pages\\\\profile.vue",
-    "chunkName": "pages/profile",
-    "_name": "_46baae48"
+    "chunkName": "pages/profile"
   },
   {
     "name": "template",
     "path": "/template",
     "component": "C:\\\\Users\\\\Lenovo\\\\Desktop\\\\Project_nuxt-js\\\\pages\\\\template.vue",
-    "chunkName": "pages/template",
-    "_name": "_37336c57"
+    "chunkName": "pages/template"
   },
   {
     "name": "index",
     "path": "/",
     "component": "C:\\\\Users\\\\Lenovo\\\\Desktop\\\\Project_nuxt-js\\\\pages\\\\index.vue",
-    "chunkName": "pages/index",
-    "_name": "_a6d1d376"
+    "chunkName": "pages/index"
   }
 ]
