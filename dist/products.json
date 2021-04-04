@@ -1,0 +1,42 @@
+[{
+	"id":1,
+	"name": "iPhone SE",
+	"detail": "Lorem ipsum dolor sit amet",
+	"price": "14900",
+	"hero": "OMG This just came out today!",
+	"image": "https://i.blogs.es/55d8e9/iphone/840_560.jpg"
+	
+},{
+	"id":2,
+	"name": "iPhone Xr",
+	"detail": "Lorem ipsum dolor sit amet",
+	"price": "18400",
+	"info": "This is the latest and greatest product from Derp corp.",
+	"image": "https://www.beartai.com/wp-content/uploads/2019/05/iphone-xr.jpg"
+},{
+	"id":3,
+	"name": "iPhone 11",
+	"detail": "Lorem ipsum dolor sit amet",
+	"price": "22100",
+	"offer": "BOGOF",
+	"image": "https://assets.brandinside.asia/uploads/2019/09/iphone-11-cov5.jpg"
+},{
+	"id":4,
+	"name": "iPhone 12",
+	"detail": "Lorem ipsum dolor sit amet",
+	"price": "29900",
+	"image": "https://www.macthai.com/wp-content/uploads/2019/07/iphone-11-pro-640x399.png"
+},{
+	"id":5,
+	"name": "iPhone 12 Pro",
+	"detail": "Lorem ipsum dolor sit amet",
+	"price": "36900",
+	"offer": "No srsly GTFO",
+	"image": "https://www.apple.com/newsroom/images/product/iphone/standard/Apple_iphone12pro-back-camera_10132020_big.jpg.large.jpg"
+},{
+	"id":6,
+	"name": "iPhone 12 Pro Max",
+	"detail": "Lorem ipsum dolor sit amet",
+	"price": "39900",
+	"image": "https://static.thairath.co.th/media/dFQROr7oWzulq5FZUH5xQf2GhwrHf4B8E3RlKFkUlmP695oYvJfOLJmGOwMoqSeQy30.jpg"
+}]
